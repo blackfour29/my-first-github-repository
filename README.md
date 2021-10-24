@@ -1,4 +1,6 @@
 # my-first-github-repository
 Here is the first github repository.
 
-Edited manually.
+This line was modified manually during conflict.
+
+Another line added locally.
